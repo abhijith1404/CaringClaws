@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357256467882",
+    "firebase_url": "https://caringclaws-a9fae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "caringclaws-a9fae",
+    "storage_bucket": "caringclaws-a9fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357256467882:android:763dd0c133d770e4c687d3",
+        "android_client_info": {
+          "package_name": "com.example.caringclaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357256467882-nndgdr78nh12hfopq8iu9jk19a6f1dd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ilKIgOFaVG83GlbFi0VCGCQoaWkTjyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357256467882-nndgdr78nh12hfopq8iu9jk19a6f1dd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
